@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jgruberbenaich
 - 👀 I’m interested in Python, R, SQL
-- 💞️ I’m looking to collaborate with @BikeBrigade and @Data-For-Good and other cool groups
-- 📫 Reach me @jgruberbenaich on twitter, jgruberbenaich@gmail.com, jgruberbenaich@pm.me, etc....
+- 💞️ I’m looking to collaborate with @BikeBrigade and and other cool groups
+- 📫 Reach me @jgruberbenaich on twitter, j.gruber.benaich@gmail.com
 
 <!---
 jgruberbenaich/jgruberbenaich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
